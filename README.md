@@ -90,5 +90,7 @@
       <img src="https://img.shields.io/badge/malikfk100-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Spyrex-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
       <img src="https://img.shields.io/badge/malikfk100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <br>
+      <a href="https://twitter.com/SpyrexDE" target="blank"><img src="https://img.shields.io/twitter/follow/spyrexde?logo=twitter&style=for-the-badge" alt="Twitter:      @SpyrexDE"/></a>
     </p>
 </body>
