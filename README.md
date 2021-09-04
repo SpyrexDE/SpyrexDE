@@ -26,7 +26,7 @@
         <b>Hobbys:</b> Programming, Gaming, and Music
     </li>
     <li>
-        <b>Working @:</b> Home
+        <b>Working & Living @:</b> Cyberspace
     </li>
     <br>
 
