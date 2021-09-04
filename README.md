@@ -43,7 +43,7 @@
 <br>
   
 <div>
-    <h2><samp>&gt; Knowledge</samp></h2>
+    <h2><samp>&gt; Experience</samp></h2>
     <img src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" align="right" height="280px">
     <br>
     <p align="center">
