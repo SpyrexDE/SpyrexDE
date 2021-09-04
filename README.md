@@ -11,7 +11,7 @@
   <!--
     <h2 align="center"><samp> &gt; About me </samp></h2>
   -->
-    <img src="https://thumbs.gfycat.com/SimilarNippyAsp-size_restricted.gif" align="right" height=200>
+    <img src="https://thumbs.gfycat.com/SimilarNippyAsp-size_restricted.gif" align="right" height=240>
   <br>
     <li>
         <b>Real name:</b> Fabian
