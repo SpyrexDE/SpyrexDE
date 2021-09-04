@@ -44,7 +44,7 @@
   
 <div>
     <h2><samp>&gt; Knowledge</samp></h2>
-    <img src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" align="right" height="300px">
+    <img src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" align="right" height="310px">
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
