@@ -93,4 +93,5 @@
         <br>
       <a href="https://twitter.com/SpyrexDE" target="blank"><img src="https://img.shields.io/twitter/follow/spyrexde?logo=twitter&style=for-the-badge" alt="Twitter:      @SpyrexDE"/></a>
     </p>
+    <p align="center" title="またね！">See you!</p>
 </body>
