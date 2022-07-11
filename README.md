@@ -86,7 +86,7 @@
     <img src="https://i.pinimg.com/originals/cc/f2/f9/ccf2f95d432776ee12a37de09718efb6.gif" align="right" height="200px">
     <br>
     <p align="center">Contacting me on any of these platforms is always welcome:<br><br>
-      <img src="https://img.shields.io/badge/Spyrex%232780-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+      <img src="https://img.shields.io/badge/Spyrex%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
       <img src="https://img.shields.io/badge/SpyrexDE-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
       <img src="https://img.shields.io/badge/malikfk100-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Spyrex-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
