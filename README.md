@@ -4,7 +4,7 @@
 <br>
 <div align="center">
     <!--
-      <img src="https://giffiles.alphacoders.com/200/200193.gif" height=300>
+      <img src="https://user-images.githubusercontent.com/57133330/188281475-2538d5b9-074a-405c-99b1-cb34d90cfafb.gif" height=300>
     -->
 </div>
 <div>
@@ -44,7 +44,7 @@
   
 <div>
     <h2><samp>&gt; Experience</samp></h2>
-    <img src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" align="right" height="280px">
+    <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="280px">
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -80,10 +80,9 @@
 
   </p>
 </div>
-  
   <h2><samp>&gt; Contact me</samp></h2>
   <!--http://33.media.tumblr.com/8de0047115540a2fcd839dc373e9f8f9/tumblr_mgfz8vTf0P1rwjab3o3_250.gif-->
-    <img src="https://i.pinimg.com/originals/cc/f2/f9/ccf2f95d432776ee12a37de09718efb6.gif" align="right" height="200px">
+    <img src="https://user-images.githubusercontent.com/57133330/188281501-2b011708-bc37-40aa-8e34-c0b41d5cc089.gif" align="right" height="200px">
     <br>
     <p align="center">Contacting me on any of these platforms is always welcome:<br><br>
       <img src="https://img.shields.io/badge/Spyrex%238728-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
