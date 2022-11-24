@@ -17,7 +17,7 @@
         <b>Real name:</b> Fabian
     </li>
     <li>
-        <b>Age:</b> 17
+        <b>Age:</b> 18
     </li>
     <li>
         <b>Nationality:</b> German
