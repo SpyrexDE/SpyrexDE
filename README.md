@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-    <h1 align="center"><samp>&gt; Hey, I am <b><a target="_blank" href="https://spyrex.me/">Spyrex</a></b></samp></h1>
+    <h1 align="center"><img align="left" src="https://user-images.githubusercontent.com/57133330/212569425-25568a62-bc17-410e-8706-0fd4cb9664e0.gif" width="50"/><samp>&gt; Hey, I am <b><a target="_blank" href="https://spyrex.me/">Spyrex</a></b></samp><img src="https://user-images.githubusercontent.com/57133330/212569425-25568a62-bc17-410e-8706-0fd4cb9664e0.gif" align="right" width="50"/></h1>
 <br>
 <div align="center">
     <!--
@@ -95,5 +95,5 @@
         <br>
       <a href="https://twitter.com/SpyrexDE" target="blank"><img src="https://img.shields.io/twitter/follow/spyrexde?logo=twitter&style=for-the-badge" alt="Twitter:      @SpyrexDE"/></a>
     </p>
-    <p align="center" title="またね！">See you!</p>
+    <p align="center" title="またね！">See you! <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=15/></p>
 </body>
