@@ -26,7 +26,7 @@
         <b>Hobbys:</b> Programming, Gaming, and Music
     </li>
     <li>
-        <b>Working & Living @:</b> Cyberspace
+        <b>Dream Job:</b> Game UI Programmer
     </li>
     <br>
 
