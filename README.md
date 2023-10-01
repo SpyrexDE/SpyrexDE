@@ -28,6 +28,9 @@
     <li>
         <b>Dream Job:</b> Game UI Programmer
     </li>
+    <li>
+        <b>Academic Pursuit:</b> Studying <i>Games Engineering</i>
+    </li>
     <br>
 
   
