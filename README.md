@@ -11,7 +11,7 @@
   <!--
     <h2 align="center"><samp> &gt; About me </samp></h2>
   -->
-    <img src="https://thumbs.gfycat.com/SimilarNippyAsp-size_restricted.gif" align="right" height=240>
+    <img src="https://github.com/SpyrexDE/SpyrexDE/assets/57133330/532fe418-73af-48b6-b841-e7948d79645b" align="right" height=240>
   <br>
     <li>
         <b>Real name:</b> Fabian
@@ -32,8 +32,6 @@
         <b>Academic Pursuit:</b> Studying <i>Games Engineering</i>
     </li>
     <br>
-
-  
   <details align="center">
     <summary> <samp>&#9776; Github Stats</samp></summary>
     <p align="center">
@@ -42,9 +40,6 @@
     </p>
   </details>
 </div>
-  
-<br>
-  
 <div>
     <h2><samp>&gt; Experience</samp></h2>
     <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="280px">
