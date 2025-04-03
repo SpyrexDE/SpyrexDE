@@ -26,7 +26,7 @@
         <b>Hobbys:</b> Programming, Gaming, and Music
     </li>
     <li>
-        <b>Dream Job:</b> (Game) UI Programmer
+        <b>Dream Job:</b> (Game) UI/UX Developer
     </li>
     <li>
         <b>Current position:</b> Working student <a href="https://www.linkedin.com/company/henkel/"><b>@henkel</b></a> as <i>Software Engineer</i>
